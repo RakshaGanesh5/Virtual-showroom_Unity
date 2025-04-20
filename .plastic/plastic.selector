@@ -1,0 +1,4 @@
+repository "virtual_store@rakshag@cloud"
+  path "/"
+    br "/main"
+    co "/main"

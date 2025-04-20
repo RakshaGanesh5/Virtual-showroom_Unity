@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raksh\\virtual_store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9EE5D7-51D8-10A7-2D66-A49BE6118BF1}|PhotonUnityNetworking.Demos.csproj|c:\\users\\raksh\\virtual_store\\assets\\photon\\photonunitynetworking\\demos\\demoasteroids\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9EE5D7-51D8-10A7-2D66-A49BE6118BF1}|PhotonUnityNetworking.Demos.csproj|solutionrelative:assets\\photon\\photonunitynetworking\\demos\\demoasteroids\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\raksh\\virtual_store\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\raksh\\virtual_store\\Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Photon\\PhotonUnityNetworking\\Demos\\DemoAsteroids\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:46:20.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
